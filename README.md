@@ -33,6 +33,8 @@ The purpose of this study was to compare the performance of Pymaceuticals' drug 
 **Weight vs. Avg Volume**
 ![plotchart](images/plot.PNG)
 
-
-
+<p align="left">
+  <img src="https://github.com/GiovanniLeonardo/Matplotlib-Homework/tree/master/images/plot.PNG?raw=true"/>
+</p>
+// <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
