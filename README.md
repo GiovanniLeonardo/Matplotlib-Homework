@@ -4,7 +4,7 @@ Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent eff
 
 The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
 
-![Lab_image](images/laboratory.JPG)
+![Lab_image](images/Laboratory.jpg)
 
 
 **Summary table**
@@ -31,7 +31,7 @@ The purpose of this study was to compare the performance of Pymaceuticals' drug 
 ![scatterchart](images/scatter.PNG)
 
 **Weight vs. Avg Volume**
-![plotchart](plot.PNG)
+![plotchart](images/plot.PNG)
 
 
 
